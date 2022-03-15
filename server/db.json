@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "dsadsad",
+      "color": "#44872c"
+    },
+    {
+      "id": 2,
+      "value": "dsadsad",
+      "color": "#b94141"
+    },
+    {
+      "id": 3,
+      "value": "dsadsad",
+      "color": "#a3e21d"
+    },
+    {
+      "id": 4,
+      "value": "dsadsaddsadsa",
+      "color": "#5584f1"
+    },
+    {
+      "id": 5,
+      "value": "212121212121",
+      "color": "#ffd22e"
+    }
+  ],
+  "colors": {
+    "colorApp": "#60691b"
+  }
+}
